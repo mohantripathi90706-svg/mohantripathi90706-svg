@@ -3,7 +3,7 @@
 # Mohan Tripathi
 
 <a href="https://github.com/mohantripathi90706-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=B.Tech+CSE+%40+SMVDU+%7C+CGPA+9.1;Deep+Learning+%7C+Computer+Vision;Neural+Network+Optimization+Research" alt="Mohan Tripathi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=B.Tech+CSE+%40+%7C+CGPA+9.1;Deep+Learning+%7C+Computer+Vision;Neural+Network+Optimization+Research" alt="Mohan Tripathi" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-tripathi-7926b6386)
