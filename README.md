@@ -1,6 +1,6 @@
 # Hi, I'm Mohan Tripathi
 
-I'm a B.Tech Computer Science student at Shri Mata Vaishno Devi University (SMVDU), Katra, with a CGPA of 9.1. I work on deep learning and computer vision, mostly training, optimizing and evaluating neural networks. Right now I'm doing research on learning regularization with meta-learning.
+I'm a B.Tech Computer Science student  with a CGPA of 9.1. I work on deep learning and computer vision, mostly training, optimizing and evaluating neural networks. Right now I'm doing research on learning regularization with meta-learning.
 
 I'm looking for research internships and collaborations in machine learning and computer vision.
 
