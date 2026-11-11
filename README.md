@@ -15,7 +15,7 @@
 
 ### About
 
-I'm a Computer Science student at Shri Mata Vaishno Devi University, Katra (CGPA 9.1, Dean's Top 10%). Most of my work is on training, optimizing and evaluating neural networks, across computer vision, EEG-based models and learning regularization. I'm currently doing research on meta-learning for regularization, and I'm open to research internships and collaborations in ML and computer vision.
+I'm a Computer Science student CGPA 9.1. Most of my work is on training, optimizing and evaluating neural networks, across computer vision, EEG-based models and learning regularization. I'm currently doing research on meta-learning for regularization, and I'm open to research internships and collaborations in ML and computer vision.
 
 ### Research Experience
 
