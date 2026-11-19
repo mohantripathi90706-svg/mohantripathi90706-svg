@@ -22,7 +22,7 @@ I'm a Computer Science student CGPA 9.1. Most of my work is on training, optimiz
 | Role | Organization | Period | Work |
 |---|---|---|---|
 | Research Intern | **IIT Jammu**, under Dr. Aroof Aimen | Sep 2026 | Neural network optimization; learning regularization with meta-learning to improve generalization |
-| Summer Research Intern | **IIT Palakkad** | Jun 2026 | Orthogonal Vectors problem in Fine-Grained Complexity; compared existing algorithms and running times |
+| Summer Research Intern | **IIT Palakkad** under Dr. Krishnamoorthy Dinesh | Jun 2026 | Orthogonal Vectors problem in Fine-Grained Complexity; compared existing algorithms and running times |
 | Research Intern | **SMVDU**, under Dr. Vipal Kumar Sharma | May 2026 | Camouflaged object detection using CNN architectures on low-contrast, cluttered images |
 | Neural AI Intern | **Spaceborn** (robotics startup) | 2 months | Trained and evaluated deep learning models on EEG data for a neuroscience-driven hardware project |
 
