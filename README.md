@@ -3,7 +3,7 @@
 # Mohan Tripathi
 
 <a href="https://github.com/mohantripathi90706-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=B.Tech+CSE+%40+%7C+CGPA+9.1;Deep+Learning+%7C+Computer+Vision;Neural+Network+Optimization+Research" alt="Mohan Tripathi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=B.Tech+CSE+29+%40+%7C+CGPA+9.1;Deep+Learning+%7C+Computer+Vision;Neural+Network+Optimization+Research" alt="Mohan Tripathi" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-tripathi-7926b6386)
@@ -21,9 +21,9 @@ I'm a Computer Science student CGPA 9.1. Most of my work is on training, optimiz
 
 | Role | Organization | Period | Work |
 |---|---|---|---|
-| Research Intern | **IIT Jammu**, under Dr. Aroof Aimen | Sep 2026 | Neural network optimization; learning regularization with meta-learning to improve generalization |
-| Summer Research Intern | **IIT Palakkad** under Dr. Krishnamoorthy Dinesh | Jun 2026 | Orthogonal Vectors problem in Fine-Grained Complexity; compared existing algorithms and running times |
-| Research Intern | **SMVDU**, under Dr. Vipal Kumar Sharma | May 2026 | Camouflaged object detection using CNN architectures on low-contrast, cluttered images |
+| Research Intern | **IIT Jammu**, Mentor: Dr. Aroof Aimen | Sep 2026 | Neural network optimization; learning regularization with meta-learning to improve generalization |
+| Summer Research Intern | **IIT Palakkad** , Mentor: Dr. Krishnamoorthy Dinesh | Jun 2026 | Orthogonal Vectors problem in Fine-Grained Complexity; compared existing algorithms and running times |
+| Research Intern | **SMVDU**, Mentor: Dr. Vipal Kumar Sharma | May 2026 | Camouflaged object detection using CNN architectures on low-contrast, cluttered images |
 | Neural AI Intern | **Spaceborn** (robotics startup) | 2 months | Trained and evaluated deep learning models on EEG data for a neuroscience-driven hardware project |
 
 ### Projects
